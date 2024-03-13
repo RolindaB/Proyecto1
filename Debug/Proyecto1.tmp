@@ -1,0 +1,104 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\Debug\Proyecto1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto1.map</FILE>
+  <FILE>Proyecto1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Inicio><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>27</LINE></Inicio>
+  <ISR_PCINT1><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>645</LINE></ISR_PCINT1>
+  <ISR_TIMER1_OVF><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>779</LINE></ISR_TIMER1_OVF>
+  <ISR_TIMER0_OVF><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>742</LINE></ISR_TIMER0_OVF>
+  <TABLA><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>25</LINE></TABLA>
+  <INIT_TIMER1><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>147</LINE></INIT_TIMER1>
+  <INIT_TIMER0><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>125</LINE></INIT_TIMER0>
+  <LOOP><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>106</LINE></LOOP>
+  <INCMIN><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>179</LINE></INCMIN>
+  <Hora><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>174</LINE></Hora>
+  <conHora><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>363</LINE></conHora>
+  <Fecha><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>452</LINE></Fecha>
+  <conFecha><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>509</LINE></conFecha>
+  <MOSTRAR_H><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>313</LINE></MOSTRAR_H>
+  <RES_UMIN><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>185</LINE></RES_UMIN>
+  <RES_UHOR><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>192</LINE></RES_UHOR>
+  <RES_DHOR><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>201</LINE></RES_DHOR>
+  <REes2><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>205</LINE></REes2>
+  <RESET><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>209</LINE></RESET>
+  <Dias31x><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>243</LINE></Dias31x>
+  <Dias28x><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>246</LINE></Dias28x>
+  <Dias30x><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>249</LINE></Dias30x>
+  <VerCasox><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>252</LINE></VerCasox>
+  <AUMENTO><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>257</LINE></AUMENTO>
+  <diferente_dia><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>286</LINE></diferente_dia>
+  <otro_mes><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>270</LINE></otro_mes>
+  <REST_YEAR><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>274</LINE></REST_YEAR>
+  <REST_YEAR2><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>278</LINE></REST_YEAR2>
+  <RETARDO><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>291</LINE></RETARDO>
+  <delay><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>294</LINE></delay>
+  <Delay1><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>299</LINE></Delay1>
+  <MdecenU><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>388</LINE></MdecenU>
+  <MdecenaH><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>405</LINE></MdecenaH>
+  <H24x><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>379</LINE></H24x>
+  <mDESmin><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>410</LINE></mDESmin>
+  <mDEShora><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>434</LINE></mDEShora>
+  <REseteaHoras><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>425</LINE></REseteaHoras>
+  <decremento><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>429</LINE></decremento>
+  <InDminv><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>395</LINE></InDminv>
+  <ResetMin><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>400</LINE></ResetMin>
+  <desCmin><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>446</LINE></desCmin>
+  <DEChOR><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>441</LINE></DEChOR>
+  <MOSTRAR_fecha><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>460</LINE></MOSTRAR_fecha>
+  <Dias31><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>538</LINE></Dias31>
+  <Dias28><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>541</LINE></Dias28>
+  <Dias30><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>544</LINE></Dias30>
+  <VerCaso><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>547</LINE></VerCaso>
+  <IdcDia><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>599</LINE></IdcDia>
+  <Dc_dia><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>604</LINE></Dc_dia>
+  <icDMES><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>569</LINE></icDMES>
+  <RES_DIA><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>609</LINE></RES_DIA>
+  <Ver_Cmes><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>615</LINE></Ver_Cmes>
+  <ver_Me><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>574</LINE></ver_Me>
+  <XXXNO><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>587</LINE></XXXNO>
+  <Res_Mes><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>581</LINE></Res_Mes>
+  <Dec_mes><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>594</LINE></Dec_mes>
+  <M31><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>623</LINE></M31>
+  <M30><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>629</LINE></M30>
+  <M28><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>635</LINE></M28>
+  <ISR_Hora><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>662</LINE></ISR_Hora>
+  <ISR_conHora><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>673</LINE></ISR_conHora>
+  <ISR_Fecha><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>698</LINE></ISR_Fecha>
+  <ISR_conFecha><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>703</LINE></ISR_conFecha>
+  <But_goOut><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>732</LINE></But_goOut>
+  <INCREMENT><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>667</LINE></INCREMENT>
+  <INC_MIN><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>685</LINE></INC_MIN>
+  <INC_HOR><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>688</LINE></INC_HOR>
+  <DEC_MIN><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>691</LINE></DEC_MIN>
+  <DEC_HOR><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>694</LINE></DEC_HOR>
+  <INC_DIA><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>715</LINE></INC_DIA>
+  <INC_MES><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>719</LINE></INC_MES>
+  <DEC_DIA><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>723</LINE></DEC_DIA>
+  <DEC_MESX><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>727</LINE></DEC_MESX>
+  <PAR><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>754</LINE></PAR>
+  <ONpar><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>761</LINE></ONpar>
+  <OFFpar><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>765</LINE></OFFpar>
+  <SALIR0><FILE>C:\Users\asrol\Documents\Atmel Studio\7.0\Proyecto1\Proyecto1\main.asm</FILE><LINE>769</LINE></SALIR0>
+ </LABELS>
+</ASSEMBLER_INFO>
